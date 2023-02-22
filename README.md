@@ -21,7 +21,7 @@ Here are some ideas to get you started:
 
 >**Targeted participants:** Students from Engineering Colleges in India (Valid College ID proof is required)
 
->**About the event:** An event specially designed to visualize the world around us through the fascinating kaleidoscope of Mathematics. A team work with a mathematical mind and logic always produce wonderful products. The math vision is the skill of viewing the space around you through the magnifying lens of Mathematics. Do you believe that you have that math vision with in you? Then, ${\color{red}{\text{Ganita Netra}}}$- *The short math video contest* that explore nature through mathematics is a right place to showcase your math vision skill to the entire country. Let's join the celebration of exploring patterns in the nature.
+>**About the event:** An event specially designed to visualize the world around us through the fascinating kaleidoscope of Mathematics. A team work with a mathematical mind and logic always produce wonderful products. The math vision is the skill of viewing the space around you through the magnifying lens of Mathematics. Do you believe that you have that math vision with in you? Then, ${\color{red}{\text{Ganita Netra}}}$- *The short math video contest* that explore the nature through mathematics is a right place to showcase your math vision skill to the entire country. Let's join the celebration of exploring patterns in the nature.
 
 ----
 
