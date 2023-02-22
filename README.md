@@ -49,7 +49,7 @@ Here are some ideas to get you started:
    - Theme of the video shall be "Mathematics in Nature".
    - Background music and inline narration are also allowed.
    - Maximum time allotted to a team is 7 minutes including initial preparations.
-   - Decisions of the judges are final.
+   - Decisions of the judges shall be final.
    - Minimum participation to claim a prize is 3.
 
 ----
