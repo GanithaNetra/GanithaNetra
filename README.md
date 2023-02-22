@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 <center>
-![](Ganitha_netra_logo.jpeg)
+![]([Ganitha_netra_logo.jpeg]("https://github.com/GanithaNetra/GanithaNetra/blob/main/Ganitha_netra_logo.JPG"))
 </center>
 
 
