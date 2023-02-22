@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 <center>
-![]("https://user-images.githubusercontent.com/126071796/220628618-508cb018-fb7d-41f3-a063-5331a7d26d2a.JPG")
+![](Ganitha_netra_logo.JPG)
 </center>
 
 
