@@ -14,3 +14,13 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+### $\color{red}{\text{Ganitha Netra-2023}}$- First National Level Math Short Video Contest
+
+----
+>**Theme of the contest:** *Mathematics in Nature*
+----
+
+>**Targeted participants:** Students from Engineering Colleges inside/ out side India (Valid College ID proof required)
+
+
