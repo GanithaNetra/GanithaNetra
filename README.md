@@ -1,3 +1,8 @@
+
+## Ganitha Netra
+
+📧 ganithanetra@gmail.com
+👀 https://ganithanetra.github.io/GNWebsite
 <!--
 **GanithaNetra/GanithaNetra** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
