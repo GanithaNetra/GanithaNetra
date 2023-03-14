@@ -46,7 +46,7 @@ Here are some ideas to get you started:
         
 ### Rules & Regulations
 
-   -  Maximum duration of the video is FIVE minutes.
+   -  Maximum duration of the video shall be FIVE minutes.
    -  Share the video links (through the Google form shared) after uploading it in the personal drive. 
    -  Only self made videos are allowed. Downloaded/ edited videos from external sources are not accepted in the competition. 
    - Theme of the video shall be "Mathematics in Nature".
