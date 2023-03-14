@@ -37,15 +37,12 @@ Here are some ideas to get you started:
         - Presentation time-5 minutes.
         - Narrations/ explanation- 2 minutes
 
-### Team size
-
-     Maximum number of members in the team is 2
 ---
 
 ### Prize money
-        - First prize- 3K
+        - First prize-  3K
         - Second prize- 2K
-        - Third price- 1K
+        - Third price-  1K
         
 ### Rules & Regulations
 
