@@ -49,12 +49,22 @@ Here are some ideas to get you started:
         
 ### Rules & Regulations
 
-   -  Maximum number of members in a team is 2. Solo participation is also allowed.
+   -  Share the video links (through the Google form shared) after uploading it in the personal drive. 
    -  Only self made videos are allowed. Downloaded/ edited videos from external sources are not accepted in the competition. 
    - Theme of the video shall be "Mathematics in Nature".
    - Background music and inline narration are also allowed.
-   - Maximum time allotted to a team is 7 minutes including initial preparations.
+   - Maximum time allotted is 7 minutes including initial preparations.
    - Decisions of the judges shall be final.
    - Minimum participation to claim a prize is 3.
+
+----
+
+## Event Heads:
+
+- Nehna Lezya Sarin M, 📱 7736638441
+
+- Neeraja Anil, 📱 7736266317
+
+- Bijo Babu Cherian, 📱 8075210440
 
 ----
